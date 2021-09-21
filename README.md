@@ -7,7 +7,8 @@
 > Addicted to Open Source teaching and development
 
 Core developer of [JabRef](https://www.jabref.org/) and [MADR](http://adr.github.io/madr).
-I am using GitHub in my free time.
+I am using GitHub in my private free time.
+All contributions in the context of the Daimler group are done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
 
 - 💬 Ask me about the "architectural" in architectural decision records
 - 🐦 Twitter: [koppor](http://twitter.com/koppor)
