@@ -1,20 +1,20 @@
-# Dr. Oliver Kopp
+## Dr. Oliver Kopp | 👨‍🔬 [h-index: 37](https://scholar.google.de/citations?hl=de&user=nB2GungAAAAJ)
 
-[![Oliver Kopp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=koppor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+     <td style="border: none;"><a href="https://stackexchange.com/users/467725"><img src="https://stackexchange.com/users/flair/467725.png" width="208" height="58" alt="profile for koppor on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for koppor on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a></td>
+     <td>
+       🏎&nbsp;Accelleration an and sustainability through <a href="https://devdocs.jabref.org/teaching.html">open-source-based education</a><br>
+       🏊‍♀️ &nbsp;Core developer of <a href="https://www.jabref.org/">JabRef</a> and <a href="http://adr.github.io/madr">MADR</a>.
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koppor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I am using GitHub both in [my work at Nokia Bell Labs](https://www.bell-labs.com/about/researcher-profiles/oliver-kopp/) and in my free time.
+You see the officialtion most probably by my email adress (in case I did not do a mistake).
+All contributions in the context of my [Mercedes-Benz](https://opensource.mercedes-benz.com/) employment were done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
 
-> Addicted to Open Source teaching and development
-
-Core developer of [JabRef](https://www.jabref.org/) and [MADR](http://adr.github.io/madr).
-I am using GitHub in my private free time.
-All contributions in the context of the Daimler group are done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
-
-- 💬 Ask me about the "architectural" in architectural decision records
-- <a rel="me" href="https://mastodon.acm.org/@koppor">Mastodon</a>
-- 🧑‍💼 LinkedIn: [Oliver Kopp](https://www.linkedin.com/in/oliverkopp) 
 - 🏛 My ORCID: [orcid.org/0000-0001-6962-4290](https://orcid.org/0000-0001-6962-4290)
 - 📋 Publication list: [dblp page](https://dblp.org/pid/29/3402)
-- 🐦 Twitter: [koppor](http://twitter.com/koppor)
-- 🤔 I'm looking for help with JabRef bug fixing and documentation
-- <a href="https://stackexchange.com/users/467725"><img src="https://stackexchange.com/users/flair/467725.png" width="208" height="58" alt="profile for koppor on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for koppor on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+- 💬 Ask me about the [candidates for university projects](https://github.com/orgs/JabRef/projects/3/views/3)
+- ⚠ Distraction ahead: ✨ https://github.com/jnv/lists ✨
