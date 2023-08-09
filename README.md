@@ -10,11 +10,8 @@
   </tr>
 </table>
 
-I am using GitHub both in [my work at Nokia Bell Labs](https://www.bell-labs.com/about/researcher-profiles/oliver-kopp/) and in my free time.
-You see the officialtion most probably by my email adress (in case I did not do a mistake).
-All contributions in the context of my [Mercedes-Benz](https://opensource.mercedes-benz.com/) employment were done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
-
 - 🏛 My ORCID: [orcid.org/0000-0001-6962-4290](https://orcid.org/0000-0001-6962-4290)
 - 📋 Publication list: [dblp page](https://dblp.org/pid/29/3402)
-- 💬 Ask me about the [candidates for university projects](https://github.com/orgs/JabRef/projects/3/views/3)
-- ⚠ Distraction ahead: ✨ https://github.com/jnv/lists ✨
+- All contributions in the context of my previous [Mercedes-Benz](https://opensource.mercedes-benz.com/) employment were done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
+
+*Hire me for support with Java, Open Source, and more. `#freelancing`*
