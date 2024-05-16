@@ -15,3 +15,5 @@
 - All contributions in the context of my previous [Mercedes-Benz](https://opensource.mercedes-benz.com/) employment were done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
 
 *Hire me for support with Java, Open Source, and more. `#freelancing`*
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=koppor)](https://github.com/ryo-ma/github-profile-trophy)
