@@ -1,4 +1,4 @@
-## Dr. Oliver Kopp | 👨‍🔬 [h-index: 37](https://scholar.google.de/citations?hl=de&user=nB2GungAAAAJ)
+## Dr. Oliver Kopp | 👨‍🔬 [h-index: 38](https://scholar.google.de/citations?hl=de&user=nB2GungAAAAJ)
 
 <table>
   <tr>
