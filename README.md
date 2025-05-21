@@ -1,4 +1,5 @@
-## Dr. Oliver Kopp | 👨‍🔬 [h-index: 38](https://scholar.google.de/citations?hl=de&user=nB2GungAAAAJ)
+## Dr. Oliver Kopp
+
 
 <table>
   <tr>
@@ -10,6 +11,7 @@
   </tr>
 </table>
 
+- 👨‍🔬 [Top 1% Computer Science researcher](https://research.com/scientists-rankings/computer-science/de?page=7); [h-index: 38](https://scholar.google.de/citations?hl=de&user=nB2GungAAAAJ)
 - 🏛 My ORCID: [orcid.org/0000-0001-6962-4290](https://orcid.org/0000-0001-6962-4290)
 - 📋 Publication list: [dblp page](https://dblp.org/pid/29/3402)
 - All contributions in the context of my previous [Mercedes-Benz](https://opensource.mercedes-benz.com/) employment were done on behalf of [Mbition](https://mbition.io/) and are tagged as such.
